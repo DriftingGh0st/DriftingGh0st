@@ -4,7 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer and Data Analyst
 -----------------------------------
 
-I recently graduated from Florida Atlantic University with a BA in Computer Science and a Minor in AI. Through my academic journey, I discovered a strong interest in Machine Learning, Data Science, and Data Engineering. I continue to expand my skills through personal projects and by keeping up with the latest breakthroughs in the tech industry. My strengths include reliability, effective communication, and a talent for explaining complex concepts in a way that’s accessible to others. I am tech-savvy and passionate about problem-solving, whether through coding or clear communication. I am seeking to leverage these skills in a full-time role where I can apply my knowledge while continuously learning and growing in the field. Currently, I'm enhancing my expertise by pursuing certificates in data science roles, specifically Data Analytics and Data Engineering. I am excited to contribute to projects that make a meaningful difference in the world and to be part of an inclusive environment where authenticity and enjoyment in work are valued. If you're looking for someone adaptable, committed, and eager to learn, feel free to connect with me. Let’s build something impactful together!
+I recently graduated from Florida Atlantic University with a BA in Computer Science and a Minor in AI. Through my academic journey, I discovered a strong interest in Machine Learning, Data Science, and Data Engineering. I continue to expand my skills through personal projects and by keeping up with the latest breakthroughs in the tech industry.
+
+My strengths include reliability, effective communication, and a talent for explaining complex concepts in a way that’s accessible to others. I am tech-savvy and passionate about problem-solving, whether through coding or clear communication. I am seeking to leverage these skills in a full-time role where I can apply my knowledge while continuously learning and growing in the field.
+
+Currently, I'm enhancing my expertise by pursuing certificates in data science roles, specifically Data Analytics and Data Engineering. I am excited to contribute to projects that make a meaningful difference in the world and to be part of an inclusive environment where authenticity and enjoyment in work are valued. 
+
+If you're looking for someone adaptable, committed, and eager to learn, feel free to connect with me. Let’s build something impactful together!
 
 * 🌍  I'm based in Florida
 * ✉️  You can contact me at [nickwolfson2002@gmail.com](mailto:nickwolfson2002@gmail.com)
